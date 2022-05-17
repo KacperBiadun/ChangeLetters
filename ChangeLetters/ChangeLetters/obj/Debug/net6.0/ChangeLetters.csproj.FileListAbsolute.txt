@@ -1,0 +1,15 @@
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\bin\Debug\net6.0\ChangeLetters.exe
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\bin\Debug\net6.0\ChangeLetters.deps.json
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\bin\Debug\net6.0\ChangeLetters.runtimeconfig.json
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\bin\Debug\net6.0\ChangeLetters.dll
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\bin\Debug\net6.0\ChangeLetters.pdb
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.csproj.AssemblyReference.cache
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.AssemblyInfoInputs.cache
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.AssemblyInfo.cs
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.dll
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\refint\ChangeLetters.dll
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.pdb
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ChangeLetters.genruntimeconfig.cache
+C:\Users\Kacper\Documents\DEV\ChangeLetters\ChangeLetters\ChangeLetters\obj\Debug\net6.0\ref\ChangeLetters.dll
